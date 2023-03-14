@@ -3,4 +3,5 @@ TCC ceep
 
 Christyan & Yan
 
-E-commerce de mang
+E-commerce de mangá
+Nome: Read Universe
